@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CobaLayout</string>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="linier">Linier Layout</string>
+    <string name="send">Send</string>
+    <string name="reminder">Reminder name</string>
+    <string name="done">Done</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="tombol">Tombol</string>
+
+
+</resources>
