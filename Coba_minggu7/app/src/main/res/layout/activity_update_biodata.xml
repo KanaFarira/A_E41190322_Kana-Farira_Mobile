@@ -99,7 +99,7 @@
         android:layout_alignParentBottom="true"
         style="?android:borderlessButtonStyle"
         android:drawableLeft="@drawable/icon_done"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         android:text="Update" />
     <Button
         android:id="@+id/button2"
